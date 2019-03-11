@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
 @import "bootstrap";
 
 .clear {
@@ -45,5 +49,13 @@
       }
 
     hr {
-    clear: both;
+      clear: both;
     }
+
+    h1 {
+      font-family: 'Raleway', sans-serif; 
+    }
+
+    h2 { 
+      font-family: 'Raleway', sans-serif;
+      }
