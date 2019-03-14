@@ -41,7 +41,7 @@
     .links a {
       font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
       color: black; 
-      font-size: 25px;
+      margin-right: 10px;
       border-bottom: 1px solid #dfdfdf; 
     }
 
@@ -64,7 +64,9 @@
       }
 
     .next-quote {
-      color: #f84342
+      color: #f84342;
+      font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+      font-size: 12px;
     }
 
     .footer-blurb { 
